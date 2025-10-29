@@ -21,6 +21,13 @@ https://gdmirrorbot.nl/embed/mp4yqhi
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="a2z" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="Linaw",Luh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_********_europe/playlist_cbcs.mpd
+
+
 
 
 
